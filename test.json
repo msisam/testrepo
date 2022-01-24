@@ -1,0 +1,42 @@
+{
+  "2.6.0": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:50945",
+    "hcoVersion": "v2.6.0-650"
+  },
+  "2.6.1": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:63920",
+    "hcoVersion": "v2.6.1-124"
+  },
+  "2.6.2": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:69505",
+    "hcoVersion": "v2.6.2-34"
+  },
+  "2.6.3": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:75326",
+    "hcoVersion": "v2.6.3-16"
+  },
+  "2.6.4": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:78826",
+    "hcoVersion": "v2.6.4-8"
+  },
+  "2.6.5": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:81184",
+    "hcoVersion": "v2.6.5-12"
+  },
+  "2.6.6": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:95543",
+    "hcoVersion": "v2.6.6-70"
+  },
+  "2.6.7": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:119352",
+    "hcoVersion": "v2.6.7-60"
+  },
+  "2.6.8": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:131610",
+    "hcoVersion": "v2.6.8-23"
+  },
+  "2.6.9": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:160110",
+    "hcoVersion": "v2.6.9-46"
+  }
+}
