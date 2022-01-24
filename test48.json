@@ -1,0 +1,26 @@
+{
+  "4.8.0": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:86746",
+    "hcoVersion": "v4.8.0-451"
+  },
+  "4.8.1": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:97626",
+    "hcoVersion": "v4.8.1-18"
+  },
+  "4.8.2": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:107230",
+    "hcoVersion": "v4.8.2-17"
+  },
+  "4.8.3": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:139030",
+    "hcoVersion": "v4.8.3-58"
+  },
+  "4.8.4": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:155696",
+    "hcoVersion": "v4.8.4-44"
+  },
+  "4.8.5": {
+    "image": "registry-proxy.engineering.redhat.com/rh-osbs/iib:163959",
+    "hcoVersion": "v4.8.5-3"
+  }
+}
